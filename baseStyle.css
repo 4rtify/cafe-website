@@ -1,5 +1,6 @@
 body {
 
+    font-family: "Times New Roman";
     text-align: center;
       color: #E0E0E0;
 
@@ -16,7 +17,10 @@ a {
     color: #E0E0E0;
 
       }
-
+dd {
+  display:block;
+  margin-left: : 0px;
+}
 ul.ba {
 
     list-style-type: none;
