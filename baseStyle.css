@@ -1,5 +1,6 @@
 body {
 
+    font-size: 15px;
     background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -9,6 +10,22 @@ body {
       color: #442a17;
 
     }
+
+header{
+
+  font-size: 30px;
+}
+
+table {
+
+    text-align: left;
+
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+      }
 
 nav {
 
@@ -44,7 +61,7 @@ ul.ba {
 .sidenav a {
         padding: 8px 8px 8px 16px;
         text-decoration: none;
-        font-size: 11px;
+        font-size: 13px;
       }
 
 .sidenav a:hover {
