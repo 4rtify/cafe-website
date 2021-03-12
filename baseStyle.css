@@ -5,7 +5,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    font-family: "Times New Roman";
+    font-family:OCR A Std, monospace;
     text-align: center;
       color: #442a17;
 
@@ -36,8 +36,13 @@ a {
 
     text-decoration: none;
     color: #442a17;
-
       }
+
+a.hyperlink {
+
+    color: #df8d4f;
+}
+
 dd {
   display:block;
   margin-left: : 0px;
@@ -64,6 +69,14 @@ ul.ba {
         font-size: 13px;
       }
 
-.sidenav a:hover {
+a.hyperlink:hover{
+
+        color: #7f4417;
+}
+
+a:hover {
         text-decoration: underline;
       }
+.allignleft{
+  text-align: left;
+}
