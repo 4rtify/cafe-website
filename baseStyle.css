@@ -1,11 +1,11 @@
 body {
 
-    font-size: 15px;
+    font-size: 16px;
     background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    font-family:OCR A Std, monospace;
+    font-family:Optima;
     text-align: center;
     color: #442a17;
     margin-bottom: 200px;
@@ -91,7 +91,7 @@ ul.ba {
 .sidenav a {
         padding: 8px 8px 8px 16px;
         text-decoration: none;
-        font-size: 14.5px;
+        font-size: 16px;
       }
 
 a.hyperlink:hover{
