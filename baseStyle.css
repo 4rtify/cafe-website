@@ -7,17 +7,43 @@ body {
     background-size: cover;
     font-family:OCR A Std, monospace;
     text-align: center;
-      color: #442a17;
+    color: #442a17;
+    margin-bottom: 200px;
 
     }
 
-header{
 
+p.text {
+
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: justify;
+}
+
+topfooter {
+    margin-left: 16px;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+
+footer {
+    margin-left: 16px;
+    font-weight: 600px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    overflow-x: hidden;
+
+}
+
+header{
   font-size: 30px;
 }
 
 table {
-
+    font-weight: bold;
     text-align: left;
 
 }
@@ -40,7 +66,7 @@ a {
 
 a.hyperlink {
 
-    color: #df8d4f;
+    color: #442a17;
 }
 
 dd {
@@ -60,13 +86,12 @@ ul.ba {
         top: 0;
         right: 0;
         overflow-x: hidden;
-        padding-top: 10px;
       }
 
 .sidenav a {
         padding: 8px 8px 8px 16px;
         text-decoration: none;
-        font-size: 13px;
+        font-size: 14.5px;
       }
 
 a.hyperlink:hover{
@@ -79,4 +104,10 @@ a:hover {
       }
 .allignleft{
   text-align: left;
+}
+
+
+h1 {
+
+  margin-top: 70px;
 }
