@@ -34,8 +34,9 @@ div {
 }
 
 footer {
+    font-size: 15px;
     margin-left: 16px;
-    font-weight: 600px;
+    font-weight: 600;
     position: fixed;
     bottom: 0;
     left: 0;
@@ -75,7 +76,7 @@ a.hyperlink {
 
 dd {
   display:block;
-  margin-left: : 0px;
+  margin-left: 0px;
 }
 
 /* Removes the bulit points from unorderd lists */
