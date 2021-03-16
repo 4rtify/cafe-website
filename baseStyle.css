@@ -1,3 +1,5 @@
+/* Genral style for all pages */
+
 body {
 
     font-size: 16px;
@@ -19,6 +21,8 @@ p.text {
   margin-right: 200px;
   text-align: justify;
 }
+
+/* keeps the topfooter fixed */
 
 topfooter {
     margin-left: 16px;
@@ -73,11 +77,15 @@ dd {
   display:block;
   margin-left: : 0px;
 }
+
+/* Removes the bulit points from unorderd lists */
+
 ul.ba {
 
     list-style-type: none;
 
       }
+/* Allows the navigator to be fixed to the right side of the page */
 .sidenav {
         height: 100%;
         width: 200px;
@@ -94,6 +102,7 @@ ul.ba {
         font-size: 16px;
       }
 
+/* Alter Text when passing over */
 a.hyperlink:hover{
 
         color: #7f4417;
