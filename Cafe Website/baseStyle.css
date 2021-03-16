@@ -7,6 +7,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    /* (W3schools, Images Background, 1998) --> */
     font-family:Optima;
     text-align: center;
     color: #442a17;
@@ -60,7 +61,6 @@ table {
 nav {
 
     text-align: center;
-    width: -20%
       }
 a {
 
@@ -111,6 +111,8 @@ a.hyperlink:hover{
 a:hover {
         text-decoration: underline;
       }
+/* (W3schools, Sidenav, 1998) --> */
+
 .allignleft{
   text-align: left;
 }
